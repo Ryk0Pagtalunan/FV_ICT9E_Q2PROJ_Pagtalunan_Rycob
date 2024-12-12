@@ -1,0 +1,44 @@
+#logo{
+	height: 30px;
+	width: 30px;
+}
+body{
+	background-color: #d92323;
+		background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/401/677/small_2x/abstract-polygonal-shape-black-background-free-vector.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+h1{
+	color: #d5d6f7;
+}
+img{
+	height: 150px;
+	width: 175px;
+}
+th{
+	text-align: center;
+}
+td{
+	text-align: center;
+}
+#img2{
+	height: 150px;
+	width: 100px;
+}
+#img6{
+	height: 150px;
+	width: 200px;
+}
+#img10{
+	height: 150px;
+	width: 200px;
+}
+#img14{
+	height: 150px;
+	width: 200px;
+}
+#img15{
+	height: 150px;
+	width: 150px;
+}
